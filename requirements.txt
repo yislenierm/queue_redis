@@ -1,0 +1,4 @@
+flask
+redis
+Flask-RESTful
+rq
